@@ -16,5 +16,4 @@ This is the most complex project I have created as a first year college student 
 ### 3. Compile `TheCafeSim_NoMusic.cpp` and then run `TheCafeSim_NoMusic.exe` that was created in the folder
 
 Mechanics:
-- **Map mode**: WASD to move, you are the smily face, ! is your enemy, % is the wheel of fortune which you may or may not spin, ? is a surprise, go to ! or ? to enter the *Battle Mode*
-- **Battle mode**: Choose the action you would like to do, your Ultimate has a cooldown, you have limited mana and health, win fights to earn prizes and boost your stats, wining a ? battle gives you a special prize
+- There isn't much to say about mechanincs because I have already given you some tips(I suggest you read the tips I let throughout the game, they really help) at the beginning of the game, just treat it like it's a real coffee shop and see if your decisions will find success
