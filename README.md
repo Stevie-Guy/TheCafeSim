@@ -2,7 +2,7 @@
 This is a simulator in which you are a coffee shop owner and you need to build a successful business.
 
 ## Software used for this project
-- Visual Studio Code version: 1.77.0
+- Visual Studio Code version: 1.77.0 and Visual Studio 2022
 - Compiler: gcc (MinGW.org GCC-6.3.0-1) 6.3.0
 
 ## About the game
