@@ -8,7 +8,7 @@ This is a simulator in which you are a coffee shop owner and you need to build a
 ## About the game
 This is the most complex project I have created as a first year college student an I believe it simulates really well what a coffee shop owner has to do(excepting the boring bureaucracy), it implements supply and demand, season changes, expenses and a few other things that you have to discover by yourself. I spent 4 hours a day for three full weeks in order to complete this project and I am personally very proud of how it turned out, if you decide to try it out, thank you.
 
-(NOTE: THE ORIGINAL GAME, WHICH IS ON MY PC, EVEN HAS MUSIC BUT THIS ONE DOESN'T BECAUSE YOU WOULD HAVE HAD TO DOWNLOAD THE SONGS ON YOUR COMPUTER AND I DIDN'T WANT TO MAKE YOU DONWLOAND MORE FILES)
+(NOTE: THE ORIGINAL GAME, WHICH IS ON MY PC, EVEN HAS MUSIC. THIS VERSION DOESN'T BECAUSE YOU WOULD HAVE HAD TO DOWNLOAD THE SONGS AND I DIDN'T WANT TO MAKE YOU DOWNLOAD MORE FILES)
 
 ## How to play the game
 ### 1. [Install](https://code.visualstudio.com/download) Visual Studio Code for Windows 10 and the [GCC Compiler](https://sourceforge.net/projects/mingw-w64/)(Windows 10 is necessary)
